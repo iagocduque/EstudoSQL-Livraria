@@ -47,9 +47,9 @@ SELECT * FROM Livraria WHERE Titulo LIKE "C%"; -- Consulta os livros que começa
 SELECT * FROM Livraria WHERE NOT
  (Titulo LIKE "A %" OR Titulo LIKE "O %"); -- Títulos que NÃO começam com artigo definido
 SELECT * FROM Livraria WHERE Titulo LIKE "%Buarque"; -- Três livros escritos por membros da mesma família, ou árvore genealógica
-SELECT COUNT(*) FROM Livraria; -- Consulta quantos entradas (livros) há na tabela (livraria)
-SELECT ("Hello, world!");
--- NOTA: A operação acima depende da IDE utilizada. No "sqlite3" do Terminal Linux e no OneCompiler, a string de teste "Hello, world!" é renderizada normalmente.
+SELECT COUNT(*) FROM Livraria; -- Consulta quantas entradas (livros) há na tabela (livraria)
+SELECT ('Hello, world!');
+-- Por mais inacreditável que seja, é possível renderizar a string de teste "Hello, world!" no console de saída.
 
 
 -- Inserção de nova coluna na tabela, esta para saber se é nacional ou não
