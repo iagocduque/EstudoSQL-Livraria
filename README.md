@@ -55,10 +55,10 @@ Foram selecionados mais para exemplificar, não significando que eu li, ou sei d
 Algo que eu percebi ao pesquisar sobre esses livros na Amazon é que existem variantes dos mesmos que mudam o ISBN, a capa, o número de páginas, a editora e o peso. Esse problema vale até mesmo para livros nacionais (brasileiros). Essas variações provavelmente são "reprints", múltiplas traduções de um mesmo livro estrangeiro ou correções com base no Novo Acordo Ortográfico de 2016 para livros brasileiros, não sabendo dizer qual seria o "mais correto" (original) para os livros.
 
 
-## O que é feito e como é feito
+## Requisitos funcionais e não-funcionais
 Esta é uma parte que se trata dos requisitos funcionais e não-funcionais desse repositório.
 
-### Requisitos funcionais
+### Funcionais
 O repositório deve mostrar várias formas de gerenciar, consultar ou manipular, dados em uma tabela, ou dados e/ou tabelas em banco de dados em geral.
 
 No caso do repositório de uma tabela SQL com uma lista de livros para uma biblioteca ou livraria, foram colocados alguns livros com as características: código ISBN, título, autor, páginas e um indicador se é nacional (brasileiro) ou não (estrangeiro). Os tipos de dado para essas características são, respectivamente: inteiro chave primária, texto, texto, inteiro e booleano. A partir daí, serão feitas consultas personalizadas com base nas propriedades de cada linguagem SQL.
@@ -73,5 +73,5 @@ DELETE FROM Tabela; DROP TABLE Tabela;
 
 Para mais informações sobre os procedimentos nos códigos em cada linguagem de programação, leia os comentários (parte dos códigos para o compilador __não__ ler) nos respectivos arquivos.
 
-### Requisitos não-funcionais
+### Não-funcionais
 O repositório foi feito com  _SQLite, PostgreSQL_ com _JSON, PostgreSQL_ com _HStore, MongoDB_ e, esse não sendo um banco de dados SQL e sim uma programação orientada a objetos, _Python._ Foram usados o terminal do Linux (mais especificamente o do Ubuntu 24.04 "Noble Numbat") e as IDEs dos websites [OneCompiler](https://onecompiler.com) e [SQLite Online](https://sqliteonline.com) para ler, executar e compilar os códigos.
