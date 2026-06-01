@@ -1,0 +1,191 @@
+[
+  {
+    ISBN: 8578887239,
+    'título': 'Dom Casmurro',
+    'páginas': 208,
+    nacional: 1,
+    autor: 'ASSIS, Machado'
+  },
+  {
+    ISBN: 8501114782,
+    'título': 'Vidas Secas',
+    'páginas': 176,
+    nacional: 1,
+    autor: 'RAMOS, Graciliano'
+  },
+  {
+    ISBN: 8535925481,
+    'título': 'Raízes do Brasil',
+    'páginas': 256,
+    nacional: 1,
+    autor: 'BUARQUE, Sérgio'
+  },
+  {
+    ISBN: 8577533360,
+    'título': 'Pedagogia do Oprimido',
+    'páginas': 245,
+    nacional: 1,
+    autor: 'FREIRE, Paulo'
+  },
+  {
+    ISBN: 8526022253,
+    'título': 'O Povo Brasileiro: A formação e o sentido Brasil',
+    'páginas': 368,
+    nacional: 1,
+    autor: 'RIBEIRO, Darcy'
+  },
+  {
+    ISBN: 8534705259,
+    'título': 'Olhos de Água',
+    'páginas': 116,
+    nacional: 1,
+    autor: 'EVARISTO, Conceição'
+  },
+  {
+    ISBN: 6580722029,
+    'título': 'O Pica-Pau Amarelo',
+    'páginas': 144,
+    nacional: 1,
+    autor: 'LOBATO, Monteiro'
+  },
+  {
+    ISBN: 6555320249,
+    'título': 'Laços de Família',
+    'páginas': 144,
+    nacional: 1,
+    autor: 'LISPECTOR, Clarice'
+  },
+  {
+    ISBN: 8535933581,
+    'título': 'Ideias para adiar o fim do mundo',
+    'páginas': 104,
+    nacional: 1,
+    autor: 'KRENAK, Ailton'
+  },
+  {
+    ISBN: 8573029633,
+    'título': 'Dicionário Houaiss',
+    'páginas': 1986,
+    nacional: 1,
+    autor: 'HOUAISS, Antônio'
+  },
+  {
+    ISBN: 9788538583,
+    'título': 'Dicionário Aurélio',
+    'páginas': 2272,
+    nacional: 1,
+    autor: 'BUARQUE, Aurélio'
+  },
+  {
+    ISBN: 6598002192,
+    'título': 'Constituição de 1988',
+    'páginas': 303,
+    nacional: 1,
+    autor: ', Brasil'
+  },
+  {
+    ISBN: 8535915389,
+    'título': 'Ciranda de Pedra',
+    'páginas': 224,
+    nacional: 1,
+    autor: 'FAGUNDES, Lygia'
+  },
+  {
+    ISBN: 8542213742,
+    'título': 'Cidade de Deus',
+    'páginas': 400,
+    nacional: 1,
+    autor: 'LINS, Paulo'
+  },
+  {
+    ISBN: 8535911693,
+    'título': 'Capitães da Areia',
+    'páginas': 283,
+    nacional: 1,
+    autor: 'AMADO, Jorge'
+  },
+  {
+    ISBN: 8535904174,
+    'título': 'Budapeste',
+    'páginas': 176,
+    nacional: 1,
+    autor: 'BUARQUE, Chico'
+  },
+  {
+    ISBN: 8579624169,
+    'título': 'Ainda Estou Aqui',
+    'páginas': 296,
+    nacional: 1,
+    autor: 'PAIVA, Marcelo'
+  },
+  {
+    ISBN: 6555520809,
+    'título': 'Crime e Castigo',
+    'páginas': 240,
+    nacional: 0,
+    autor: 'HAWKING, Stephen'
+  },
+  {
+    ISBN: 6555522267,
+    'título': '1984',
+    'páginas': 334,
+    nacional: 0,
+    autor: 'ORWELL, George'
+  },
+  {
+    ISBN: 8535923438,
+    'título': 'Eu sou Malala',
+    'páginas': 360,
+    nacional: 0,
+    autor: 'NIETZSCHE, Friedrich'
+  },
+  {
+    ISBN: 8580578892,
+    'título': 'O universo numa casca de noz',
+    'páginas': 224,
+    nacional: 0,
+    autor: 'SHAKESPEARE, William'
+  },
+  {
+    ISBN: 6550970431,
+    'título': 'Orgulho e Preconceito',
+    'páginas': 288,
+    nacional: 0,
+    autor: 'DOSTOYéVSKY, Fyodor'
+  },
+  {
+    ISBN: 8535930485,
+    'título': 'Assim Falou Zaratustra',
+    'páginas': 360,
+    nacional: 0,
+    autor: 'YOUSAFZAI, Malala'
+  },
+  {
+    ISBN: 8594318782,
+    'título': 'A Metamorfose',
+    'páginas': 96,
+    nacional: 0,
+    autor: 'KAFKA, Franz'
+  },
+  {
+    ISBN: 8582850409,
+    'título': 'Romeu e Julieta',
+    'páginas': 248,
+    nacional: 0,
+    autor: 'AUSTEN, Jane'
+  },
+  {
+    ISBN: 8535933921,
+    'título': 'Sapiens: Uma breve história da humanidade',
+    'páginas': 472,
+    nacional: 0,
+    autor: 'HARARI, Yuval'
+  },
+  {
+    ISBN: 8594318596,
+    'título': 'A Arte da Guerra',
+    'páginas': 160,
+    nacional: 0,
+    autor: 'SUN, Tzu'
+  }
+]
