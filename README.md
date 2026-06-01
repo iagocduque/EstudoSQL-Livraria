@@ -74,4 +74,4 @@ DELETE FROM Tabela; DROP TABLE Tabela;
 Para mais informações sobre os procedimentos nos códigos em cada linguagem de programação, leia os comentários (parte dos códigos para o compilador __não__ ler) nos respectivos arquivos.
 
 ### Requisitos não-funcionais
-O repositório foi feito com  _SQLite, PostgreSQL_ com _JSON, PostgreSQL_ com _HStore_ e, esse não sendo um banco de dados SQL e sim uma programação orientada a objetos, _Python._ Foram usados o terminal do Linux (mais especificamente o do Ubuntu 24.04 "Noble Numbat") e as IDEs dos websites [OneCompiler](https://onecompiler.com) e [SQLite Online](https://sqliteonline.com) para ler, executar e compilar os códigos.
+O repositório foi feito com  _SQLite, PostgreSQL_ com _JSON, PostgreSQL_ com _HStore, MongoDB_ e, esse não sendo um banco de dados SQL e sim uma programação orientada a objetos, _Python._ Foram usados o terminal do Linux (mais especificamente o do Ubuntu 24.04 "Noble Numbat") e as IDEs dos websites [OneCompiler](https://onecompiler.com) e [SQLite Online](https://sqliteonline.com) para ler, executar e compilar os códigos.
