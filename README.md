@@ -6,7 +6,7 @@ Este repositório meu, para fins de estudo, testa o que eu possuo de conheciment
 1. [Resumo](#resumo)
 2. [Bancos de dados (SQL)](#bancos-de-dados-sql)
    1. [Manipulação](#manipulação)
-3. [Alguns problemas nos bancos de dados...](alguns-problemas-nos-bancos-de-dados)
+3. [Alguns problemas nos bancos de dados...](#alguns-problemas-nos-bancos-de-dados)
    1. [_SQL Injection_](#sql-injection)
    2. [_JSON_ e _HStore_ quebram a 1FN dos bancos de dados](#json-e-hstore-quebram-a-1fn-dos-bancos-de-dados)
 4. [Banco de dados e orientação a objetos de uma biblioteca (livros)](#banco-de-dados-e-orientação-a-objetos-de-uma-biblioteca-livros)
