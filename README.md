@@ -2,6 +2,20 @@
 Este repositório meu, para fins de estudo, testa o que eu possuo de conhecimento sobre bancos de dados, particularmente como fazer consultas e gerenciar os mesmos.
 
 
+## Conteúdo
+1. [Resumo](#resumo)
+2. [Bancos de dados (SQL)](#bancos-de-dados-sql)
+   1. [Manipulação](#manipulação)
+3. [Alguns problemas nos bancos de dados...](alguns-problemas-nos-bancos-de-dados)
+   1. [_SQL Injection_](#sql-injection)
+   2. [_JSON_ e _HStore_ quebram a 1FN dos bancos de dados](#json-e-hstore-quebram-a-1fn-dos-bancos-de-dados)
+4. [Banco de dados e orientação a objetos de uma biblioteca (livros)](#banco-de-dados-e-orientação-a-objetos-de-uma-biblioteca-livros)
+5. [Requisitos funcionais e não-funcionais](#requisitos-funcionais-e-não-funcionais)
+   1. [Funcionais](#funcionais)
+   2. [Não-funcionais](#não-funcionais)
+ 
+
+
 ## Bancos de dados (SQL)
 Para introduzir, eu devo descrever, com as minhas próprias palavras, o que é, em sentido estrito, um sistema de gerenciamento de banco de dados (__SGBD__).
 
