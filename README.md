@@ -78,7 +78,7 @@ O repositório deve mostrar várias formas de gerenciar, consultar ou manipular,
 No caso do repositório de uma tabela SQL com uma lista de livros para uma biblioteca ou livraria, foram colocados alguns livros com as características: código ISBN, título, autor, páginas e um indicador se é nacional (brasileiro) ou não (estrangeiro). Os tipos de dado para essas características são, respectivamente: inteiro chave primária, texto, texto, inteiro e booleano. A partir daí, serão feitas consultas personalizadas com base nas propriedades de cada linguagem SQL.
 
 Os códigos SQL seguem o método _CRUD_ (_Create Read Update Delete_) na ordem:
-```
+```sql
 CREATE TABLE Tabela (...); INSERT INTO Tabela VALUES (...);
 SELECT * FROM Tabela;
 ALTER TABELA Tabela; UPDATE Tabela SET ... WHERE ...;
