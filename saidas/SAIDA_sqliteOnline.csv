@@ -1,27 +1,27 @@
-'ISBN'|'Titulo'|'Autor'|'Paginas'|'Nacional'
-'8579624169'|'Ainda Estou Aqui'|'PAIVA, Marcelo'|'296'|'1'
-'8535904174'|'Budapeste'|'BUARQUE, Chico'|'176'|'1'
-'8535911693'|'Capitães da Areia'|'AMADO, Jorge'|'283'|'1'
-'8542213742'|'Cidade de Deus'|'LINS, Paulo'|'400'|'1'
-'8535915389'|'Ciranda de Pedra'|'FAGUNDES, Lygia'|'224'|'1'
-'9788538583'|'Dicionário Aurélio'|'BUARQUE, Aurélio'|'2272'|'1'
-'8573029633'|'Dicionário Houaiss'|'HOUAISS, Antônio'|'1986'|'1'
-'8578887239'|'Dom Casmurro'|'ASSIS, Machado'|'208'|'1'
-'8535933581'|'Ideias para adiar o fim do mundo'|'KRENAK, Ailton'|'104'|'1'
-'6555320249'|'Laços de Família'|'LISPECTOR, Clarice'|'144'|'1'
-'6580722029'|'O Pica-Pau Amarelo'|'LOBATO, Monteiro'|'144'|'1'
-'8534705259'|'Olhos de Água'|'EVARISTO, Conceição'|'116'|'1'
-'8526022253'|'O Povo Brasileiro: A formação e o sentido Brasil'|'RIBEIRO, Darcy'|'368'|'1'
-'8577533360'|'Pedagogia do Oprimido'|'FREIRE, Paulo'|'245'|'1'
-'8535925481'|'Raízes do Brasil'|'BUARQUE, Sérgio'|'256'|'1'
-'8501114782'|'Vidas Secas'|'RAMOS, Graciliano'|'176'|'1'
-'6555522267'|'1984'|'ORWELL, George'|'334'|'0'
-'8594318596'|'A Arte da Guerra'|'SUN, Tzu'|'160'|'0'
-'8594318782'|'A Metamorfose'|'KAFKA, Franz'|'96'|'0'
-'8535930485'|'Assim Falou Zaratustra'|'NIETZSCHE, Friedrich'|'360'|'0'
-'6555520809'|'Crime e Castigo'|'DOSTOYéVSKY, Fyodor'|'240'|'0'
-'8535923438'|'Eu sou Malala'|'YOUSAFZAI, Malala'|'360'|'0'
-'8580578892'|'O universo numa casca de noz'|'HAWKING, Stephen'|'224'|'0'
-'6550970431'|'Orgulho e Preconceito'|'AUSTEN, Jane'|'288'|'0'
-'8582850409'|'Romeu e Julieta'|'SHAKESPEARE, Willian'|'248'|'0'
-'8535933921'|'Sapiens: Uma breve história da humanidade'|'HARARI, Yuval'|'472'|'0'
+ISBN;Titulo;Autor;Paginas;Nacional
+8579624169;Ainda Estou Aqui;PAIVA, Marcelo;296;1
+8535904174;Budapeste;BUARQUE, Chico;176;1
+8535911693;Capitães da Areia;AMADO, Jorge;283;1
+8542213742;Cidade de Deus;LINS, Paulo;400;1
+8535915389;Ciranda de Pedra;FAGUNDES, Lygia;224;1
+9788538583;Dicionário Aurélio;BUARQUE, Aurélio;2272;1
+8573029633;Dicionário Houaiss;HOUAISS, Antônio;1986;1
+8578887239;Dom Casmurro;ASSIS, Machado;208;1
+8535933581;Ideias para adiar o fim do mundo;KRENAK, Ailton;104;1
+6555320249;Laços de Família;LISPECTOR, Clarice;144;1
+6580722029;O Pica-Pau Amarelo;LOBATO, Monteiro;144;1
+8534705259;Olhos de Água;EVARISTO, Conceição;116;1
+8526022253;O Povo Brasileiro: A formação e o sentido Brasil;RIBEIRO, Darcy;368;1
+8577533360;Pedagogia do Oprimido;FREIRE, Paulo;245;1
+8535925481;Raízes do Brasil;BUARQUE, Sérgio;256;1
+8501114782;Vidas Secas;RAMOS, Graciliano;176;1
+6555522267;1984;ORWELL, George;334;0
+8594318596;A Arte da Guerra;SUN, Tzu;160;0
+8594318782;A Metamorfose;KAFKA, Franz;96;0
+8535930485;Assim Falou Zaratustra;NIETZSCHE, Friedrich;360;0
+6555520809;Crime e Castigo;DOSTOYéVSKY, Fyodor;240;0
+8535923438;Eu sou Malala;YOUSAFZAI, Malala;360;0
+8580578892;O universo numa casca de noz;HAWKING, Stephen;224;0
+6550970431;Orgulho e Preconceito;AUSTEN, Jane;288;0
+8582850409;Romeu e Julieta;SHAKESPEARE, Willian;248;0
+8535933921;Sapiens: Uma breve história da humanidade;HARARI, Yuval;472;0
